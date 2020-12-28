@@ -23,7 +23,7 @@
     | enum | Cria uma declaração enum |
     | equals | Cria uma declaração de método que substitui o método Equals definido na classe Object |
     | exception | Cria uma declaração para uma classe que deriva de uma exceção (Exception por padrão) |
-    | para | Cria um loop for |
+    | for | Cria um loop for |
     | foreach | Cria um loop foreach |
     | forr | Cria um loop for que decrementa a variável de loop depois de cada iteração |
     | if | Cria um bloco if |
@@ -42,7 +42,7 @@
     | struct | Cria uma declaração struct |
     | svm | Cria uma declaração de método principal static void |
     | switch | Cria um bloco switch |
-    | experimentar | Cria um bloco try-catch |
+    | try | Cria um bloco try-catch |
     | tryf | Cria um bloco try-finally |
     | unchecked | Cria um bloco unchecked |
     | unsafe | Cria um bloco unsafe |
