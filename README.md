@@ -27,7 +27,7 @@
     | iterator | Cria um iterador |
     | iterindex | Cria um par de iterador e indexador "nomeado" usando uma classe aninhada. |
     | lock | Cria um bloco lock |
-    | mbox | Cria uma chamada para System.Windows.Forms.MessageBox.Show. Talvez seja necessário adicionar uma referência a System.Windows.Forms.dll |
+    | mbox | Cria uma chamada para System.Windows.Forms.MessageBox.Show |
     | namespace | Cria uma declaração de namespace |
     | prop | Cria uma declaração de propriedade autoimplementada |
     | propfull | Cria uma declaração de propriedade com os acessadores get e set |
