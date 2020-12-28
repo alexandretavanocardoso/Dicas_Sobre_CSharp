@@ -13,9 +13,9 @@
     | #if | Cria uma diretiva #if e uma diretiva #endif |
     | #region | Cria uma diretiva #region e uma diretiva #endregion | 
     | ~ | Cria um finalizador (destruidor) para a classe que o contém |
-    | Atributo | Cria uma declaração para uma classe que deriva de Attribute |
+    | attribute | Cria uma declaração para uma classe que deriva de Attribute |
     | checked | Cria um bloco checked |
-    | classe | Cria uma declaração de classe |
+    | class | Cria uma declaração de classe |
     | ctor | Cria um construtor para a classe que o contém |
     | cw | Cria uma chamada para WriteLine |
     | do | Cria um loop do while |
@@ -27,7 +27,7 @@
     | foreach | Cria um loop foreach |
     | forr | Cria um loop for que decrementa a variável de loop depois de cada iteração |
     | if | Cria um bloco if |
-    | indexador | Cria uma declaração do indexador |
+    | indexeer | Cria uma declaração do indexador |
     | interface | Cria uma declaração interface |
     | invoke | Cria um bloco que invoca um evento com segurança |
     | iterator | Cria um iterador |
