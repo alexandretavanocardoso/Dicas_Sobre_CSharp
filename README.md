@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1200" height="350" src="https://user-images.githubusercontent.com/29004603/75462714-9dd79b80-59bf-11ea-8e6b-575765733340.png">
+</p>
+
 ## Snippets são atalhos para alguns códigos
 ### Usamos eles apertando a tecla Tab 2x
 
