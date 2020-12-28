@@ -48,3 +48,8 @@
     | while | Cria um loop while |
 ```
 ---
+
+## Funções Prontas
+
+
+---
